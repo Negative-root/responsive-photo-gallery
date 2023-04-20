@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael Brandt's Photo Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Michael Brandt's Photo Gallery</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Projects</a>
+        <a href="#">Contact</a>
+    </nav>
+    <main>
+        <section class="photo-gallery">
+            <h2>My Photos</h2>
+            <div class="gallery-grid">
+                <img src="https://via.placeholder.com/300x200" alt="Photo 1">
+                <img src="https://via.placeholder.com/300x200" alt="Photo 2">
+                <img src="https://via.placeholder.com/300x200" alt="Photo 3">
+                <img src="https://via.placeholder.com/300x200" alt="Photo 4">
+                <img src="https://via.placeholder.com/300x200" alt="Photo 5">
+                <img src="https://via.placeholder.com/300x200" alt="Photo 6">
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Michael Brandt's Photo Gallery. All rights reserved.</p>
+    </footer>
+</body>
+</html>
